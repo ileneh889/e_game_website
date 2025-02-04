@@ -15,7 +15,7 @@
 <br><br>
 
 ## 📸 預覽畫面 
-點擊下圖可預覽網站畫面的影片：
+點擊下圖可以看到實際態瀏該網站的畫面：
 [![React Tutorial](https://img.youtube.com/vi/25QKlbFqw1o/maxresdefault.jpg)](https://youtu.be/25QKlbFqw1o)
 
 <br><br>
